@@ -1,6 +1,6 @@
 # 👋 Hello there
 - 👀 I’m interested in complex programing issues where I can use my creativity and brain to solve them.
-- 🌱 I’m currently learning computer science at ELTE University in Budapest.
+- 🌱 I’m currently working as a Software Engineer at Bosch
 - 📫 How to reach me: barnak.peter1@gmail.com
 - 
 <!---
